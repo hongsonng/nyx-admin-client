@@ -1,6 +1,6 @@
 ---
 name: nyx-git-commit-quality
-description: Use when preparing, reviewing, or creating commits in the Nyx repository and the change scope, staged files, working-tree cleanliness, Gitmoji, or Conventional Commit message is uncertain.
+description: Use when preparing, reviewing, or creating a Nyx repository commit and deciding how to keep its scope clean, choose a Gitmoji/Conventional Commit message, or verify staged files; this skill guides that commit-quality check.
 ---
 
 # Nyx Git Commit Quality

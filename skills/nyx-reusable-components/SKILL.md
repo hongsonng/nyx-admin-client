@@ -1,6 +1,6 @@
 ---
 name: nyx-reusable-components
-description: Use when adding or changing a React/Next.js component in the Nyx project and reuse, placement, duplication, exports, or component documentation is uncertain.
+description: Use when adding or changing a React/Next.js component in the Nyx project and deciding whether to reuse, create, share, export, or document it; this skill guides those component-boundary decisions.
 ---
 
 # Nyx Reusable Components
